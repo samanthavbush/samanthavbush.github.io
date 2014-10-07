@@ -319,10 +319,9 @@ html, body {
       html a, body a {
         color: #444;
         text-decoration: none; } }
-/** resume page color
-*/
+
 a {
-  color: #FFC0CB; }
+  color: #FF69B4; }
 
 h2 {
   font-weight: 100;
@@ -339,8 +338,8 @@ h2 {
   width: 25%;
   height: 100%;
   float: left;
-  background-color: #FFC0CB;
-  color: #eee; }
+  background-color: #FF69B4;
+  color: #F5F5F5; }
   .nameplate a {
     color: #eee; }
   .nameplate .circle {
@@ -349,7 +348,7 @@ h2 {
     position: relative;
     top: 20%;
     margin: 0 auto;
-    background-color: #eee;
+    background-color: #F5F5F5;
     border-radius: 100px; }
     .nameplate .circle a {
       text-decoration: none; }
@@ -361,14 +360,14 @@ h2 {
       position: relative;
       top: 10px;
       font-weight: normal;
-      color: #FFC0CB; }
+      color: #FF69B4; }
   .nameplate .name {
     color: #eee;
     position: relative;
     top: 25%;
     text-align: center; }
     .nameplate .name h2 {
-      color: #eee; }
+      color: #F5F5F5; }
   .nameplate .contact {
     position: relative;
     top: 25%;
@@ -383,7 +382,7 @@ h2 {
   .nameplate .reference {
     position: relative;
     top: 25%;
-    color: #eee;
+    color: #F5F5F5;
     text-align: center; }
   @media print {
     .nameplate {
@@ -444,7 +443,7 @@ h2 {
       padding: 20px 50px 0;
       max-width: 660px; }
   .list h2 {
-    color: #FFC0CB; }
+    color: #FF69B4; }
   .list .skills-list {
     list-style-type: none;
     margin-top: 0;

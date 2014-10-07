@@ -319,9 +319,10 @@ html, body {
       html a, body a {
         color: #444;
         text-decoration: none; } }
-
+/** resume page color
+*/
 a {
-  color: #a52f14; }
+  color: #FFC0CB; }
 
 h2 {
   font-weight: 100;
@@ -338,7 +339,7 @@ h2 {
   width: 25%;
   height: 100%;
   float: left;
-  background-color: #a52f14;
+  background-color: #FFC0CB;
   color: #eee; }
   .nameplate a {
     color: #eee; }
@@ -360,7 +361,7 @@ h2 {
       position: relative;
       top: 10px;
       font-weight: normal;
-      color: #a52f14; }
+      color: #FFC0CB; }
   .nameplate .name {
     color: #eee;
     position: relative;
@@ -443,7 +444,7 @@ h2 {
       padding: 20px 50px 0;
       max-width: 660px; }
   .list h2 {
-    color: #a52f14; }
+    color: #FFC0CB; }
   .list .skills-list {
     list-style-type: none;
     margin-top: 0;

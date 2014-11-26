@@ -267,7 +267,7 @@ p + .drop-cap {
     opacity: 0.5;
     position: absolute;
     font-size: 4em;
-    color: #dc976e; }
+    color: #009999; }
   .pull-quote:before {
     content: '“';
     top: 0;
@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova", sans-serif; }
 
 a {
-  color: #6c71c4;
+  color: #7ACC51;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -327,7 +327,7 @@ a {
     opacity: 1;
     position: absolute;
     font-size: 1.5em;
-    color: #6c71c4; }
+    color: #7ACC51; }
   .pullquote:before {
     content: '“';
     top: 0;
@@ -340,7 +340,7 @@ a {
 header {
   margin: 0 auto;
   text-align: center;
-  border-bottom: 15px double #6c71c4; }
+  border-bottom: 15px double #7ACC51; }
   header h1 {
     font-weight: 900; }
     header h1 a {
@@ -368,7 +368,7 @@ article {
   article .date {
     color: #999; }
   article h1 {
-    color: #6c71c4; }
+    color: #7ACC51; }
     article h1 a {
       transition: color .5s;
       -webkit-transition: color .5s; }
@@ -385,7 +385,7 @@ article {
 
 .border {
   margin-top: 20px;
-  border-bottom: 15px double #6c71c4; }
+  border-bottom: 15px double #7ACC51; }
 
 footer {
   margin: 20px auto 0;
